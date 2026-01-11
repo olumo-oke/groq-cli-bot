@@ -39,10 +39,3 @@ MIT License
 
 ---
 
-### 3. Final Commit and Push
-Now that you've added the README, you should commit it and send it to GitHub so your profile looks complete.
-
-```cmd
-git add README.md
-git commit -m "docs: add comprehensive README"
-git push
