@@ -1,0 +1,13 @@
+# Security: Do NOT track API keys
+.env
+
+# Python: Ignore temporary files and virtual environments
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
